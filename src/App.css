@@ -1,0 +1,28 @@
+
+.container-navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0.5rem;
+    background-color: aliceblue;
+    margin-bottom: 1rem;
+}
+
+.nav-container {
+    width: 100%;
+
+}
+
+nav {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 1.5rem;
+  }
+
+  .search-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }

@@ -1,0 +1,12 @@
+.poke-css {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.pokeDetails-css {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0rem;
+}
